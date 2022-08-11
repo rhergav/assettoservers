@@ -2,6 +2,12 @@
 
 [www.assettoservers.com](https://www.assettoservers.com "AssettoServers")<br/><br/>
 Listado de servidores de Assetto Corsa.<br/>
-Assetto Corsa server list.
+Assetto Corsa server list.<br/>
 
+(https://forms.gle/PtX5KqvhgtBZhvfQ7 "Contáctame")¿Quieres preguntarme algo, hacerme una sugerencia o simplemente saludarme? Puedes hacerlo [www.assettoservers.com].
 
+Want to ask me a question, make a suggestion or just say hello? You can do it HERE.
+
+Email
+rhergav@gmail.com
+https://forms.gle/PtX5KqvhgtBZhvfQ7
