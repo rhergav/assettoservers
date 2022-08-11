@@ -4,10 +4,6 @@
 Listado de servidores de Assetto Corsa.<br/>
 Assetto Corsa server list.<br/>
 
-(https://forms.gle/PtX5KqvhgtBZhvfQ7 "Contáctame")¿Quieres preguntarme algo, hacerme una sugerencia o simplemente saludarme? Puedes hacerlo [www.assettoservers.com].
+¿Quieres preguntarme algo, hacerme una sugerencia o simplemente saludarme? Puedes hacerlo [AQUÍ](https://forms.gle/PtX5KqvhgtBZhvfQ7 "Contáctame").
 
-Want to ask me a question, make a suggestion or just say hello? You can do it HERE.
-
-Email
-rhergav@gmail.com
-https://forms.gle/PtX5KqvhgtBZhvfQ7
+Want to ask me a question, make a suggestion or just say hello? You can do it [HERE](https://forms.gle/PtX5KqvhgtBZhvfQ7 "Contact me").
