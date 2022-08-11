@@ -2,8 +2,6 @@
 
 [www.assettoservers.com](https://www.assettoservers.com "AssettoServers")<br/><br/>
 Listado de servidores de Assetto Corsa.<br/>
-Assetto Corsa server list.<br/>
+Assetto Corsa server list.
 
-¿Quieres preguntarme algo, hacerme una sugerencia o simplemente saludarme? Puedes hacerlo [AQUÍ](https://forms.gle/PtX5KqvhgtBZhvfQ7 "Contáctame").
 
-Want to ask me a question, make a suggestion or just say hello? You can do it [HERE](https://forms.gle/PtX5KqvhgtBZhvfQ7 "Contact me").
