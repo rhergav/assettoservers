@@ -124,6 +124,18 @@ td
 	mso-pattern:#4472C4 none;}
 .xl70
 	{mso-style-parent:style0;
+	color:white;
+	font-size:14.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid #4472C4;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#4472C4;
+	mso-pattern:#4472C4 none;}
+.xl71
+	{mso-style-parent:style0;
 	font-size:12.0pt;
 	font-weight:700;
 	text-align:center;
@@ -131,20 +143,12 @@ td
 	border-right:none;
 	border-bottom:none;
 	border-left:.5pt solid #4472C4;}
-.xl71
+.xl72
 	{mso-style-parent:style62;
 	color:#0563C1;
 	font-weight:700;
 	text-decoration:underline;
 	text-underline-style:single;
-	text-align:center;
-	border-top:.5pt solid #4472C4;
-	border-right:.5pt solid #4472C4;
-	border-bottom:none;
-	border-left:none;}
-.xl72
-	{mso-style-parent:style0;
-	font-weight:700;
 	text-align:center;
 	border-top:.5pt solid #4472C4;
 	border-right:.5pt solid #4472C4;
@@ -157,19 +161,26 @@ td
 	text-align:center;
 	border-top:.5pt solid #4472C4;
 	border-right:none;
-	border-bottom:.5pt solid #4472C4;
-	border-left:.5pt solid #4472C4;}
+	border-bottom:none;
+	border-left:none;}
 .xl74
-	{mso-style-parent:style62;
-	color:#0563C1;
-	text-decoration:underline;
-	text-underline-style:single;
+	{mso-style-parent:style0;
+	font-weight:700;
 	text-align:center;
 	border-top:.5pt solid #4472C4;
 	border-right:.5pt solid #4472C4;
-	border-bottom:.5pt solid #4472C4;
+	border-bottom:none;
 	border-left:none;}
 .xl75
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid #4472C4;
+	border-right:none;
+	border-bottom:.5pt solid #4472C4;
+	border-left:.5pt solid #4472C4;}
+.xl76
 	{mso-style-parent:style62;
 	color:#0563C1;
 	font-weight:700;
@@ -180,10 +191,19 @@ td
 	border-right:.5pt solid #4472C4;
 	border-bottom:.5pt solid #4472C4;
 	border-left:none;}
-.xl76
+.xl77
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid #4472C4;
+	border-right:none;
+	border-bottom:.5pt solid #4472C4;
+	border-left:none;}
+.xl78
 	{mso-style-parent:style0;
 	font-weight:700;}
-.xl77
+.xl79
 	{mso-style-parent:style0;
 	color:red;
 	font-size:14.0pt;
