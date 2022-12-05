@@ -1,10 +1,6 @@
 @import url(fontawesome-all.min.css);
 
-/*
-	Hyperspace by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html,
 body,
@@ -187,6 +183,7 @@ html {
 *:after {
 	box-sizing: inherit;
 }
+
 /* Color fondo background pagina completa */
 body {
 	background: #17252a;
@@ -3380,6 +3377,7 @@ table.alt tfoot {
 .wrapper.style2-alt {
 	background-color: #def2f1;
 }
+
 /* Fondo donaciones */
 .wrapper.style3 {
 	background-color: #2b7a77a8;
@@ -3496,7 +3494,7 @@ body.is-preload .wrapper.fade>.inner {
 	display: -webkit-flex;
 	display: -ms-flex;
 	display: flex;
-	background-color: #5e42a6;
+	background-color: #2B7A78;
 	cursor: default;
 	padding: 1.75em 2em;
 }
