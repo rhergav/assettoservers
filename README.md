@@ -2,6 +2,6 @@
 
 [www.assettoservers.com](https://www.assettoservers.com "AssettoServers")<br/><br/>
 Listado de servidores de Assetto Corsa.<br/>
-Assetto Corsa server list.
+Assetto Corsa servers list.
 
 
