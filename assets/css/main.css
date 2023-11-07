@@ -3995,11 +3995,13 @@ body.is-preload #sidebar nav ul li {
 
 }
 
+
+
 /* Intro IMAGEN DE FONDO */
 
 #intro {
 	/* background-attachment: fixed; */
-	background-image: url("images/rb1.jpg");
+	background-image: url("images/celeb.jpg");
 	background-position: top right;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
