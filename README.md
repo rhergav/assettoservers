@@ -4,4 +4,6 @@
 Listado de servidores de Assetto Corsa.<br/>
 Assetto Corsa servers list.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7EAO8T)
+
 
